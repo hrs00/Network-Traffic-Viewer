@@ -288,7 +288,7 @@ while True:
         print("\n\n\t*data-on: Application data will be printed.\n")
     else:
         print("\n\n\t*data-off: Application data will not be printed.\n")
-    response = input("pc-$: ")
+    response = input("ntv-$: ")
     if response in ["ip", "tcp", "udp", "icmp", "non-ip", "all", "data-on", "data-off"]:
         handler(response)
         continue
