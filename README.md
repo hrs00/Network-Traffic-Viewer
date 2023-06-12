@@ -16,6 +16,6 @@ Program needs root permission to copy the ethernet frames from kernel space. So 
 ```bash
 sudo python3 wtv.py
 ```
-![image](https://github.com/hrs00/Network-Traffic-Viewer/assets/135930294/d4d2a320-a730-4866-abc0-d519ea36b07d)
+![image](https://github.com/hrs00/Network-Traffic-Viewer/assets/135930294/124b1d88-15b7-46bb-85e7-6a1983e7a66f)
 
 
