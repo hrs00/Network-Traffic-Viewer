@@ -11,8 +11,6 @@ Web Traffic Viewer is a program to capture Ethernet frames and process it to vie
  
 ## Usage
 
-### 1.Run wtv.py
-
 Program needs root permission to copy the ethernet frames from kernel space. So run wtv.py with sudo.
 
 ```bash
