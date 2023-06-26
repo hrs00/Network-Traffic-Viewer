@@ -14,7 +14,7 @@ Packet Capture Tool provides a text-based interface to capture and view ethernet
 Program needs root permission to copy the ethernet frames from kernel space. So run wtv.py with sudo.
 
 ```bash
-sudo python3 wtv.py
+sudo python3 ntv.py
 ```
 ![image](https://github.com/hrs00/Network-Traffic-Viewer/assets/135930294/a3ca36a2-c4e7-418c-a3c1-4ebbe22108d1)
 
